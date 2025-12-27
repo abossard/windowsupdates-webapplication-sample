@@ -10,7 +10,7 @@
     "@mui/icons-material": "5.11.0",
     "@mui/material": "5.11.5",
     "@mui/styled-engine-sc": "5.11.0",
-    "@mui/styles": "5.11.2",
+    "@mui/styles": "5.18.0",
     "@mui/x-data-grid": "5.17.16",
     "axios": "1.2.1",
     "bootstrap": "5.2.3",
